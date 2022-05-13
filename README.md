@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github User
+A simple app that allows users to search for github users
 
 ## Available Scripts
 
